@@ -2,5 +2,12 @@
 	"pack": {
 		"pack_format": 1,
 		"description": "The official resource park of Yeya."
+	},
+	"language": {
+		"en_YEYA": {
+			"name": "Yeiyaspiik",
+			"region": "Kingdom of the Union of Yeya",
+			"bidirectional": false
+		}
 	}
 }

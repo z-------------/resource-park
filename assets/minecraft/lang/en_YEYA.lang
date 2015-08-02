@@ -1,0 +1,22 @@
+item.pumpkinPie.name=Gourd Pie
+item.seeds_pumpkin.name=Gourd Seeds
+tile.litpumpkin.name=Zack o'Lantern
+tile.pumpkin.name=Gourd
+
+stat.minecartOneCm=Distance by Minibus
+achievement.onARail.desc=Travel by minibus at least 1 km from where you started
+container.minecart=Minibus
+entity.Minecart.name=Minibus
+item.minecart.name=Minibus
+item.minecartChest.name=Minibus with Chest
+item.minecartCommandBlock.name=Minibus with Command Block
+item.minecartFurnace.name=Minibus with Furnace
+item.minecartHopper.name=Minibus with Hooper
+item.minecartTnt.name=Minibus with TNT
+
+enchantment.damage.arthropods=Bane of Gurdovich
+enchantment.digging=Gourdiness
+enchantment.thorns=Pricks
+
+entity.Guardian.name=Gourdkin
+entity.Sheep.name=Conformist
