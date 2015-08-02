@@ -49,3 +49,9 @@ entity.Zombie.name=Brainwashed Communist
 entity.Giant.name=Mao
 
 item.chickenCooked.name=Chucken Nugger
+
+tile.bed.occupied=Harfitt-like behavior is strictly prohibited
+
+item.apple.name=Tsefruit
+item.appleGold.name=Golden Tsefruit
+achievement.overpowered.desc=Build a Notch tsefruit
