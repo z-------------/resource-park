@@ -14,9 +14,22 @@ item.minecartFurnace.name=Minibus with Furnace
 item.minecartHopper.name=Minibus with Hooper
 item.minecartTnt.name=Minibus with TNT
 
+tile.hopper.name=Hooper
+
 enchantment.damage.arthropods=Bane of Gurdovich
 enchantment.digging=Gourdiness
 enchantment.thorns=Pricks
 
 entity.Guardian.name=Gourdkin
 entity.Sheep.name=Conformist
+
+tile.doublePlant.grass.name=Ryan de Thier Quality Weed
+tile.grass.name=Weed Block
+tile.tallgrass.fern.name=Dilmah English Breakfast
+tile.tallgrass.grass.name=Weed
+tile.tallgrass.name=Weed
+tile.tallgrass.shrub.name=Scrub
+
+entity.Villager.name=Bus Driver
+stat.talkedToVillager=Talked to Bus Drivers
+stat.tradedWithVillager=Traded with Bus Drivers
