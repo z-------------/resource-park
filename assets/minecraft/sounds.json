@@ -1,0 +1,11 @@
+{
+    "x.announce.gordovich": {
+        "category": "ambient",
+        "sounds": [
+            "x/announce/gordovich1",
+            "x/announce/gordovich2",
+            "x/announce/gordovich3",
+            "x/announce/gordovich4"
+        ]
+    }
+}
