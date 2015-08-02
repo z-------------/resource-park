@@ -1,4 +1,12 @@
 {
+    "mob.cow.say": {
+        "category": "neutral",
+        "replace": true,
+        "sounds": [
+            "mob/cow/say1"
+        ]
+    },
+
     "x.announce.gordovich": {
         "category": "ambient",
         "sounds": [
