@@ -33,3 +33,19 @@ tile.tallgrass.shrub.name=Scrub
 entity.Villager.name=Bus Driver
 stat.talkedToVillager=Talked to Bus Drivers
 stat.tradedWithVillager=Traded with Bus Drivers
+
+item.hoeDiamond.name=Diamond Kürbisraumschöpfer
+item.hoeGold.name=Golden Kürbisraumschöpfer
+item.hoeIron.name=Iron Kürbisraumschöpfer
+item.hoeStone.name=Stone Kürbisraumschöpfer
+item.hoeWood.name=Wooden Kürbisraumschöpfer
+
+item.coal.name=Bus Fuel
+tile.blockCoal.name=Jet Fuel
+
+entity.Wolf.name=Doge
+
+entity.Zombie.name=Brainwashed Communist
+entity.Giant.name=Mao
+
+item.chickenCooked.name=Chucken Nugger
